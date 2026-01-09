@@ -2,7 +2,6 @@
 The following guide details instructions on the creation of modified DMA (attack) Firmware based on [pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) **version 4.15**. <br />
 
 > [!TIP]
-> * Information overload? [This site](https://www.simonrak.se) has you covered with even more concise broken down steps. Even includes a long video! (cred. Simonrak)<br />
 > * Easier method of cloning via ['shadow' config space](https://github.com/Silverr12/DMA-CFW-Guide/blob/main/Shadow_cfg_space.md)
 
 
